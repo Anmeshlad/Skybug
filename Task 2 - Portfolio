@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<style> 
+       body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.project {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+	</style>
+
+
+	<title></title>
+</head>
+<body>
+
+	<header>
+        <h1>Anmesh Lad</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi, my name is Anmesh lad. I have completed B. Tech. in Biotechnology from IIT, Kanpur. I performed my dissertation on microbial techniques and bacterial fermentation, where I solely performed all the experiments under my supervisor’s guidance. I grasped the learned techniques well and want to further strengthen my knowledge and skills. Considering this, I want to apply for the Microbiological Project Assistant position.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Personal Expence Tracker</h3>
+            <p>Description: Created a Java console application that serves as a personal expense tracker, allowing users to manage and analyze their daily expenses efficiently. The application enables users to input their expenses, categorize them, and generate summary reports for better financial management.
+            </p>
+        </div>
+        <div class="project">
+            <h3>Online Shopping System </h3>
+            <p>Description : This project is a web-based shopping system for an existing shop.
+             This project is an attempt to provide the advantages of online
+             to customers in a real shop.</p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <P>Phone no. :8600362157</P>
+        <p>Email: anmeshlad@email.com</p>
+        <p>LinkedIn: linkedin.com/Anmeshlad</p>
+        <!-- Add more contact information as needed -->
+    </section>
+
+</body>
+</html>
